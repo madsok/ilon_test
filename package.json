@@ -36,5 +36,8 @@
     "gulp-sourcemaps": "2.6.x",
     "gulp-uglify": "^3.0.2",
     "stylelint": "9.10.x"
+  },
+  "dependencies": {
+    "gulp-csso": "^4.0.1"
   }
 }
